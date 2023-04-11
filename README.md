@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://l.facebook.com/l.php?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fv1.Y2lkPTc5MGI3NjExN2QzNDFlY2JiNjQ2NGZkMTQzY2M0M2JiNmM2MDU0ZjJhZTExYjg5MSZjdD1n%2Fnz8qefnPVyVHN6kcqo%2Fgiphy.gif%3Ffbclid%3DIwAR0fzgOSQa6hq3f_lrBrdSkKsJ84T2nWiUePgKcboCovNjHidHBZxvyrAM4&h=AT0QTtYUpc0DJN58ruCX_YqQL34LhR1yV24RUfZI9-4QKJoQIYPoGtE0mojJU-cAlOK3gXgrg8lXHu7BPWICBNJ-J3ZiApby1XVZ7nlEKgBTdaI0ZprOC8To1uSqxg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmMWYyNDAzMDNmODU0OGQyZDMyZDQyMDc3OTJjMzYyZmY2MzFjMyZjdD1n/nz8qefnPVyVHN6kcqo/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
